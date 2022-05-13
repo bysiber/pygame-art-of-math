@@ -1,5 +1,4 @@
 import pygame,sys
-import Equations as eqs
 import math
 pygame.init()
  
